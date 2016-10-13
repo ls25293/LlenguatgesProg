@@ -1,0 +1,34 @@
+const id2 = 3;
+var id3 : ;
+var id4 : vector[0..3] de logic;
+funcio hello(): sencer;
+	var id5 : logic;
+	func
+		id6 = 56;
+	fifunc
+;
+
+prog //No afecta
+	id3 = 3;"3
+	escriure(3 <> -4);
+	llegir(id[id5]);
+	cicle
+		llegir(id[id5]);
+	fins id4 < -4;
+	mentre cert fer
+		llegir(id[id5]);
+	fimentre;
+	si id(3>=4,4<5) llavors
+		llegir(id[id5]);
+	sino
+		si not(3>"3") llavors
+			llegir(id[id5]);
+		fisi;
+	fisi;
+	retornar 3;
+	percada id3 en id4 fer
+		llegir(id[id5]);
+	fiper;
+fiprog
+
+retornar
